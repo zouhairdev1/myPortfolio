@@ -1,8 +1,3 @@
-import Landingpage from "@/components/landingpage";
-import NavBar from "@/components/NavBar";
-import Image from "next/image";
-import myImg from "@/public/photo.jpg";
-
 export default function Privacy() {
   return (
     <div className="dark:text-white flex justify-center text-black bg-white dark:bg-gray-900  p-4">

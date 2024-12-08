@@ -1,5 +1,3 @@
-import Landingpage from "@/components/landingpage";
-import NavBar from "@/components/NavBar";
 import Image from "next/image";
 import myImg  from '@/public/photo.jpg'
 import Link from "next/link";
