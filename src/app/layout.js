@@ -22,16 +22,6 @@ export const metadata = {
   icons: {
     icon: "/favicon.ico", // Path to your favicon
   },
-  openGraph: {
-    title: "Zouhair Machmacha Portfolio",
-    description: "Discover the expertise in domain consulting and web development.",
-    url: "https://zouhairmachmacha.com",
-    siteName: "Zouhair Machmacha",
-   
-    locale: "en_US",
-    type: "website",
-  },
-
 };
 
 

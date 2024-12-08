@@ -6,7 +6,7 @@ export default function Card(){
           How We Analyze the Perfect Domain Name
         </h2>
         <div className="grid gap-8 md:grid-cols-3">
-          {/* Card 1 */}
+        
           <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6">
             <div className="flex items-center mb-4">
               <div className="bg-blue-600 text-white p-3 rounded-full">
@@ -35,7 +35,7 @@ export default function Card(){
             </p>
           </div>
     
-          {/* Card 2 */}
+       
           <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6">
             <div className="flex items-center mb-4">
               <div className="bg-green-600 text-white p-3 rounded-full">
@@ -64,7 +64,7 @@ export default function Card(){
             </p>
           </div>
     
-          {/* Card 3 */}
+     
           <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6">
             <div className="flex items-center mb-4">
               <div className="bg-yellow-600 text-white p-3 rounded-full">
