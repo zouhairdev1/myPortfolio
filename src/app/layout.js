@@ -43,10 +43,7 @@ export default function RootLayout({ children }) {
         <Footer/>
           </ThemeProvider>
         
-        <script
-  src="https://kit.fontawesome.com/4e7c4eb171.js"
-  crossorigin="anonymous"
-></script>
+   
       </body>
     </html>
   );
